@@ -1,4 +1,4 @@
-# klotin-note-app
+# kotlin-note-app
 
 ## Project Statement
 
